@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programowanie obiektowe ćwiczenia projekt", "Programowanie obiektowe ćwiczenia projekt\Programowanie obiektowe ćwiczenia projekt.csproj", "{5A67ADEC-734F-4030-BEA1-8622FAB07995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A67ADEC-734F-4030-BEA1-8622FAB07995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A67ADEC-734F-4030-BEA1-8622FAB07995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A67ADEC-734F-4030-BEA1-8622FAB07995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A67ADEC-734F-4030-BEA1-8622FAB07995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5934B7D-3AF8-4E47-8F0B-2C6347A0F560}
+	EndGlobalSection
+EndGlobal
